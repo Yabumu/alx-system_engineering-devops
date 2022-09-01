@@ -1,5 +1,1 @@
-Create a script that switches the current user to the use
-
->                                                                                                                                       
-
-> r betty.
+Write a script that prints the effective username of the current user
